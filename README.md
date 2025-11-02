@@ -43,7 +43,7 @@ Archivos incluidos
 - README.md — este archivo.
 - requirements.txt — dependencias.
 - .gitignore — ignorar entornos virtuales y archivos temporales.
-- LICENSE — Licencia MIT.
+- LICENSE — Licencia GNU.
 
 Contribuir
 - Pull requests bienvenidos. Para cambios importantes, abre un issue primero para discutir la propuesta.
