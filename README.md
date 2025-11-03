@@ -4,7 +4,9 @@ Wildlife road detection GUI (simulated detections) — Python/Tkinter + OpenCV
 # Wildlife Detection
 
 Detección de fauna en carreteras — GUI en Python (simulación)
+
 https://media.tenor.com/zvFLAFYSTroAAAAM/crossing-the-street-deer.gif
+
 Descripción
 - Aplicación GUI en Python que simula detección de animales en la vía usando OpenCV y Tkinter.
 - Pensada como demo/prototipo. La detección es simulada; en producción se puede sustituir por un modelo real (p. ej. YOLOv8).
