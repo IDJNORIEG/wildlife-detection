@@ -47,7 +47,7 @@ Archivos incluidos
 - .gitignore — ignorar entornos virtuales y archivos temporales.
 - LICENSE — Licencia GNU.
   
-![Wildlife Detection1](Captura_deteccion.jpg)
+![Wildlife Detection](wildlife-detection/Captura_deteccion.JPG)
 
 
 Contribuir
