@@ -46,7 +46,7 @@ Archivos incluidos
 - requirements.txt — dependencias.
 - .gitignore — ignorar entornos virtuales y archivos temporales.
 - LICENSE — Licencia GNU.
-
+![Wildlife Detection](/Captura_deteccion.jpg)
 Contribuir
 - Pull requests bienvenidos. Para cambios importantes, abre un issue primero para discutir la propuesta.
 - Respeta las buenas prácticas: tests, linters y type hints cuando corresponda.
